@@ -1,7 +1,7 @@
-baseURL = "http://hongquan.me"
+baseURL = "http://localhost:1313/"
 languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "hongquan's blog: write it down to remember"
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
+title = "Write it down to remember"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -20,10 +20,6 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
-[languages.en]
-languageCode="en"
-
-
 [author]                  # essential                     # 必需
   name = "hongquan"
 
@@ -37,16 +33,19 @@ languageCode="en"
   weight = 10
   identifier = "home"
   url = "/"
+
 [[menu.main]]
   name = "Archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
+
 [[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
   url = "/tags/"
+
 [[menu.main]]
   name = "Categories"
   weight = 40
@@ -63,9 +62,9 @@ languageCode="en"
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "hongquan"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["hongquan", "blog"]
-  description = "hongquan's blog: write it down to remember"
+  logoTitle = "Even"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "theme","even"]
+  description = "Hugo theme even example site."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 50
@@ -183,21 +182,21 @@ languageCode="en"
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-  #  a-email = "mailto:your@email.com"
-  #  b-stack-overflow = "http://localhost:1313"
-  #  c-twitter = "http://localhost:1313"
-  #  d-facebook = "http://localhost:1313"
-  #  e-linkedin = "http://localhost:1313"
-  #  f-google = "http://localhost:1313"
-  #  g-github = "http://localhost:1313"
-  #  h-weibo = "http://localhost:1313"
-  #  i-zhihu = "http://localhost:1313"
-  #  j-douban = "http://localhost:1313"
-  #  k-pocket = "http://localhost:1313"
-  #  l-tumblr = "http://localhost:1313"
-  #  m-instagram = "http://localhost:1313"
-  #  n-gitlab = "http://localhost:1313"
-  #  o-bilibili = "http://localhost:1313"
+    a-email = "mailto:your@email.com"
+    b-stack-overflow = "http://localhost:1313"
+    c-twitter = "http://localhost:1313"
+    d-facebook = "http://localhost:1313"
+    e-linkedin = "http://localhost:1313"
+    f-google = "http://localhost:1313"
+    g-github = "http://localhost:1313"
+    h-weibo = "http://localhost:1313"
+    i-zhihu = "http://localhost:1313"
+    j-douban = "http://localhost:1313"
+    k-pocket = "http://localhost:1313"
+    l-tumblr = "http://localhost:1313"
+    m-instagram = "http://localhost:1313"
+    n-gitlab = "http://localhost:1313"
+    o-bilibili = "http://localhost:1313"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
