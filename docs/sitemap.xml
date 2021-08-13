@@ -1,50 +1,50 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hongquan.me/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hongquan.me/categories/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/life/</loc>
+    <loc>https://hongquan.me/tags/life/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/murmur/</loc>
+    <loc>https://hongquan.me/categories/murmur/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://hongquan.me/post/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hongquan.me/tags/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hongquan.me/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/life/diary/2021-01-02/</loc>
+    <loc>https://hongquan.me/post/life/diary/2021-01-02/</loc>
     <lastmod>2021-01-02T17:42:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

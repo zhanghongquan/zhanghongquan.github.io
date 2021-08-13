@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Write it down to remember</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://hongquan.me/tags/</link>
     <description>Recent content in Tags on Write it down to remember</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Jan 2021 17:42:06 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 17:42:06 +0800</lastBuildDate><atom:link href="https://hongquan.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>life</title>
-      <link>http://localhost:1313/tags/life/</link>
+      <link>https://hongquan.me/tags/life/</link>
       <pubDate>Sat, 02 Jan 2021 17:42:06 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/life/</guid>
+      <guid>https://hongquan.me/tags/life/</guid>
       <description></description>
     </item>
     
