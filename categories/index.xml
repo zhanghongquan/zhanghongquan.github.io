@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Write it down to remember</title>
+    <link>https://hongquan.me/categories/</link>
+    <description>Recent content in Categories on Write it down to remember</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Jan 2021 17:42:06 +0800</lastBuildDate><atom:link href="https://hongquan.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>murmur</title>
+      <link>https://hongquan.me/categories/murmur/</link>
+      <pubDate>Sat, 02 Jan 2021 17:42:06 +0800</pubDate>
+      
+      <guid>https://hongquan.me/categories/murmur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
